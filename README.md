@@ -1,4 +1,5 @@
 # Prototipo-UAV_eNB
+La construcción final del UAV resultó en lo siguiente:
 
 
 

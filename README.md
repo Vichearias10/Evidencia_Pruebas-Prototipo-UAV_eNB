@@ -23,10 +23,9 @@ Finalmente se indica el prototipo completo, es decir, el UAV y el nodo LTE, form
 Apartado para presentar las evidencias de las pruebas realziadas al prototipo de comunicación móvil de emergencia.
 
 ### Evaluación de UAV
-
 En este apartado se presenta los links de los videos en youtube sobre la implementación del UAV, el funcionamiento de los modos de vuelo y algunas de las pruebas realizadas al prototipo completo, que inlcuye el UAV con en nodo LTE a bordo, donde se mide la cobertura, la potencia de Rx y autonomía del mismo.
 
-#### Videos de Evidencia
+### Videos de Evidencia
 Link del Video acerca de los modos de vuelo:
 https://www.youtube.com/watch?v=q7ofOJa2B-U
 

@@ -30,4 +30,6 @@ Link del Video acerca de los modos de vuelo:
 https://www.youtube.com/watch?v=q7ofOJa2B-U
 
 ### Evaluación de Prototipo UAV_eNB
-Link del Video acerca de la funcionalidad del prototipo:
+Link del Video acerca de la evalución del nodo LTE y del prototipo completo:
+https://youtu.be/LKLdcyjWP2Y
+
